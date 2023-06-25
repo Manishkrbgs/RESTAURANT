@@ -1,6 +1,5 @@
-# Project Name
-
-Fantastic Restaurants and Where to find them.
+# Project_Name
+Restaurant details and locations
 
 ## Table of Contents
 
@@ -9,7 +8,7 @@ Fantastic Restaurants and Where to find them.
 - [Data Structure](#data-structure)
 - [Project Summary](#project-summary)
 
-## Frameworks and Language Used
+## Frameworks & Languages
 
 - **Java**: The primary programming language used for developing the application.
 - **Maven**: A build automation tool and dependency management tool used for managing the project's dependencies and building the application.
@@ -42,9 +41,8 @@ This is done using hashmap.
 2. **ArrayList** : ArrayList or list are used in methods for ease of code . They are used for returning or getting data .
 
 ## Project Summary
+This project used to give restaurant details and how to locate them
 
-The Project is used as a simple Restaurant Listing api and helps store access or create Restaurant information . 
+## Installation & Usage
 
-## Installation and Usage
-
-Run code using an ide and check workings on poostman.
+Run  the code with  ide & see progress on postman.
