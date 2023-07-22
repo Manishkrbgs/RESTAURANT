@@ -1,4 +1,4 @@
-# Project_Name
+# RESTAURANT MANAGEMENT
 Restaurant details and locations
 
 ## Table of Contents
